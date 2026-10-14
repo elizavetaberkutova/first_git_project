@@ -106,4 +106,21 @@ git log --oneline
 Створено новий коміт Update program output.
 Історію комітів перевірено.
 
+# First Git Project
 
+## Завдання 5. Додавання кількох файлів
+
+# First Git Project
+
+Структура проєкту:
+- main.py
+- utils.py
+- README.md
+
+### Команди Git
+
+```bash
+git status
+git add .
+git commit -m "Add project structure"
+```
