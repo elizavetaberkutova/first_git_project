@@ -66,3 +66,44 @@ git log --oneline
 Перевірено історію комітів.
 
 
+## Завдання 4. Другий коміт
+
+### 1. Зміна файлу main.py
+
+Додано новий рядок:
+
+```python
+print("Git saves project history")
+```
+
+### 2. Перегляд змін
+
+```bash
+git diff
+```
+
+### 3. Додавання файлу
+
+```bash
+git add main.py
+```
+
+### 4. Створення коміту
+
+```bash
+git commit -m "Update program output"
+```
+
+### 5. Перегляд історії
+
+```bash
+git log --oneline
+```
+
+### Результат
+
+Файл main.py змінено.
+Створено новий коміт Update program output.
+Історію комітів перевірено.
+
+
